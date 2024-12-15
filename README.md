@@ -50,6 +50,10 @@ With the bar chart feature, you can compare different categories side-by-side. T
 - **Line Graph**<br>
 The line graph feature lets you plot data points on a graph to visualize trends over time. This is particularly useful for time series data where you want to observe patterns and changes.
 ## Demo 
-![https://github.com/garimatanejaa/datavis/blob/main/imag1.png]
-![https://github.com/garimatanejaa/datavis/blob/main/img2.png]
-![https://github.com/garimatanejaa/datavis/blob/main/img3.png]
+<img src="https://github.com/garimatanejaa/datavis/blob/main/imag1.png" width="900px" height="500px"> 
+
+<img src="https://github.com/AmishiDesai04/Interactive-Data-Visualisation-Tool/assets/170110607/88f70af5-caab-4fee-92aa-fa2b5b6f2954" width="900px" height="500px"> 
+
+<img src="https://github.com/garimatanejaa/datavis/blob/main/img2.png" width="900px" height="500px"> 
+
+<img src="https://github.com/garimatanejaa/datavis/blob/main/img3.png" width="900px" height="500px"> 
